@@ -1,5 +1,7 @@
 # agent-evaluation-gym
 
+![CI](https://github.com/TryKosm/agent-evaluation-gym/actions/workflows/ci.yml/badge.svg)
+
 Scenario-driven harness for grading autonomous agent runs against rubrics.
 
 [![CI](https://github.com/TryKosm/agent-evaluation-gym/actions/workflows/ci.yml/badge.svg)](https://github.com/TryKosm/agent-evaluation-gym/actions/workflows/ci.yml)
