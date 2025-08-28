@@ -1,10 +1,12 @@
-# agent-evaluation-gym
+# Agent Eval Gym
 
-![CI](https://github.com/TryKosm/agent-evaluation-gym/actions/workflows/ci.yml/badge.svg)
+Benchmark autonomous agents against scenario rubrics.
+
+![CI](https://github.com/TryKosm/agent-eval-gym/actions/workflows/ci.yml/badge.svg)
 
 Scenario-driven harness for grading autonomous agent runs against rubrics.
 
-[![CI](https://github.com/TryKosm/agent-evaluation-gym/actions/workflows/ci.yml/badge.svg)](https://github.com/TryKosm/agent-evaluation-gym/actions/workflows/ci.yml)
+[![CI](https://github.com/TryKosm/agent-eval-gym/actions/workflows/ci.yml/badge.svg)](https://github.com/TryKosm/agent-eval-gym/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Why this exists
